@@ -2,8 +2,11 @@
 using System;
 using System.Collections.Generic;
 using Terraria;
+using Terraria.Chat;
+using Terraria.Chat.Commands;
 using Terraria.ModLoader;
 using Terraria.ModLoader.Config;
+using Terraria.UI.Chat;
 
 namespace cherryblossomtest.Core.Systems
 {
@@ -45,14 +48,17 @@ namespace cherryblossomtest.Core.Systems
             if (Chord1.JustPressed)
             {
                 EnqueueKey(Chord1);
+                Main.NewText("Button1 pressed");
             }
             if (Chord2.JustPressed)
             {
                 EnqueueKey(Chord2);
+                Main.NewText("Button2 pressed");
             }
             if (Chord3.JustPressed)
             {
                 EnqueueKey(Chord3);
+                Main.NewText("Button3 pressed");
             }
 
             string sequence = GetCurrentKeySequence();

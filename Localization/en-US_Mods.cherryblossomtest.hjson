@@ -21,3 +21,9 @@ Items: {
 		Tooltip: ""
 	}
 }
+
+Keybinds: {
+	"Chord Key 1.DisplayName": Chord  Key 1
+	"Chord Key 2.DisplayName": Chord  Key 2
+	"Chord Key 3.DisplayName": Chord  Key 3
+}

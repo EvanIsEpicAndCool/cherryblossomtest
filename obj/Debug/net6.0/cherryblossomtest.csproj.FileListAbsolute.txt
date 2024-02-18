@@ -135,3 +135,4 @@ C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblo
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\obj\Debug\net6.0\ref\cherryblossomtest.dll
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\SubworldLibrary.dll
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\SubworldLibrary.xml
+C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\obj\Debug\net6.0\cherryblossomtest.sourcelink.json
