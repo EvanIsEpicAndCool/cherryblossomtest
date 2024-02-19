@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pXbGYLYDiLEVqHm8yF+3Neizz6sX5FC8f6mAYFTs4SWRGjjAg1J2GKW/xl8OyF6fi5/vn3t0bzp7oREea6+cow==",
+  "dgSpecHash": "U99SRiAqTvAdvjZy1F/YbZIwBCCTsQvmK+b6Qs7JWGEYXpv2yq2ULZOJa4w+4DdJlhcKNW5/ZscG4+xuZLbZZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\cherryblossomtest.csproj",
+  "projectFilePath": "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/cherryblossomtest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\silly billy\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "/Users/salem/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cherryblossomtest.Content.NPC
+namespace cherryblossomtest.Content.NPCS
 {
     internal class Samurai
     {

@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\cherryblossomtest.csproj": {}
+    "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/cherryblossomtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\cherryblossomtest.csproj": {
+    "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/cherryblossomtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\cherryblossomtest.csproj",
+        "projectUniqueName": "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/cherryblossomtest.csproj",
         "projectName": "cherryblossomtest",
-        "projectPath": "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\cherryblossomtest.csproj",
-        "packagesPath": "C:\\Users\\silly billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silly billy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\cherryblossomtest\\obj\\",
+        "projectPath": "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/cherryblossomtest.csproj",
+        "packagesPath": "/Users/salem/.nuget/packages/",
+        "outputPath": "/Users/salem/Library/Application Support/Terraria/tModLoader/ModSources/cherryblossomtest/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\silly billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/salem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

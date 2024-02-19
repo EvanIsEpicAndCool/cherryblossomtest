@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.Utilities;
 
-namespace cherryblossomtest.Content.NPC
+namespace cherryblossomtest.Content.NPCS
 {
     public class MysteriousPortal : ModNPC
     {
