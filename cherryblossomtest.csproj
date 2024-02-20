@@ -14,13 +14,19 @@
     <None Remove="Content\CherryBlossomTops.png" />
     <None Remove="Content\CherryBlossomTree.png" />
     <None Remove="Content\CherryBlossomTreeLeaf.png" />
-    <None Remove="Content\NPC\MysteriousPortal.png" />
-    <None Remove="Content\NPC\samurai.png" />
+    <None Remove="Content\NPCS\MysteriousPortal.png" />
+    <None Remove="Content\NPCS\samurai.png" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
   </ItemGroup>
   <ItemGroup>
+<Reference Include="NetEasy">
+      <HintPath>lib\NetEasy_v0.1.8.dll</HintPath>
+    </Reference>
+<Reference Include="NetSerializer">
+  <HintPath>lib\NetSerializer.dll</HintPath>
+</Reference>
     <Reference Include="SubworldLibrary">
       <HintPath>..\..\..\..\..\..\Downloads\SubworldLibrary.dll</HintPath>
     </Reference>

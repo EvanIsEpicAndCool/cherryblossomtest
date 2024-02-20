@@ -1,4 +1,5 @@
 displayName = ttert
 author = dfgdfg
 version = 0.1
-modReferences = SubworldLibrary
+dllReferences = NetEasy_v0.1.8, NetSerializer
+modReferences = SubworldLibrary,

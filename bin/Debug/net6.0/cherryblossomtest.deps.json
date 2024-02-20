@@ -36,6 +36,8 @@
           "MonoMod.RuntimeDetour": "25.0.2.0",
           "MonoMod.Utils": "25.0.3.0",
           "MP3Sharp": "1.0.0.0",
+          "NetEasy_v0.1.8": "1.0.0.0",
+          "NetSerializer": "4.1.1.0",
           "Newtonsoft.Json": "12.0.0.0",
           "NVorbis": "0.10.0.3",
           "RailSDK.Net": "1.0.0.0",
@@ -488,6 +490,22 @@
           }
         }
       },
+      "NetEasy_v0.1.8/1.0.0.0": {
+        "runtime": {
+          "NetEasy_v0.1.8.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NetSerializer/4.1.1.0": {
+        "runtime": {
+          "NetSerializer.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.1.1.0"
+          }
+        }
+      },
       "Newtonsoft.Json/12.0.0.0": {
         "runtime": {
           "Newtonsoft.Json.dll": {
@@ -834,6 +852,16 @@
       "sha512": ""
     },
     "MP3Sharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetEasy_v0.1.8/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetSerializer/4.1.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

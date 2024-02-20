@@ -1,17 +1,23 @@
-using Terraria.ModLoader;
+global using Microsoft.Xna.Framework;
+global using Microsoft.Xna.Framework.Graphics;
+global using cherryblossomtest.Core;
+global using Terraria;
+global using Terraria.Localization;
+global using Terraria.ModLoader;
 using Terraria.Graphics;
 using Terraria.Graphics.Effects;
 using Terraria.Graphics.Shaders;
 using Terraria.ID;
-using Terraria;
-using Microsoft.Xna.Framework.Graphics;
 using ReLogic.Content;
+
 
 
 namespace cherryblossomtest
 {
 	public class cherryblossomtest : Mod
 	{
+
+        public static cherryblossomtest Instance { get; set; }
 
         public override void Load()
         {
@@ -21,6 +27,10 @@ namespace cherryblossomtest
                 Filters.Scene["ParryEffect"] = new Filter(new ScreenShaderData(filterRef, "Parry"), EffectPriority.Medium);
             }
                 
+        }
+        public override void PostSetupContent()
+        {
+            NetEasy.NetEasy.Register(this);
         }
     }
 }

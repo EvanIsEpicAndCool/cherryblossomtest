@@ -136,3 +136,7 @@ C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblo
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\SubworldLibrary.dll
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\SubworldLibrary.xml
 C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\obj\Debug\net6.0\cherryblossomtest.sourcelink.json
+C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\NetEasy_v0.1.8.dll
+C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\NetEasy_v0.1.8.pdb
+C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\NetEasy_v0.1.8.xml
+C:\Users\silly billy\Documents\My Games\Terraria\tModLoader\ModSources\cherryblossomtest\bin\Debug\net6.0\NetSerializer.dll

@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Terraria.DataStructures;
 
-namespace cherryblossomtest.Content.NPC
+namespace cherryblossomtest.Core
 {
-    internal class Samurai
+    internal class CherryNPC : GlobalNPC
     {
+        
+
     }
 }
